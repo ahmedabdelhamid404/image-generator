@@ -15,11 +15,11 @@
     position: relative;
     width: fit-content;
     .uploaded-image {
-      width: 100px;
+      // width: 100px;
       height: 100px;
       //   border-radius: 50%;
-      object-fit: cover;
-      object-position: center;
+      // object-fit: cover;
+      // object-position: center;
     }
     .logo-placeholder {
       cursor: pointer;
@@ -83,7 +83,7 @@ mat-form-field {
 .client-logo {
   // border-radius: 50%;
   position: absolute;
-  width: 200px;
+  // width: 200px;
   height: 100px;
   // object-fit: cover;
   // object-position: center;
