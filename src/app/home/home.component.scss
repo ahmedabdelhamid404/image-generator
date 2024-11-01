@@ -85,8 +85,8 @@ mat-form-field {
   position: absolute;
   width: 200px;
   height: 100px;
-  object-fit: cover;
-  object-position: center;
+  // object-fit: cover;
+  // object-position: center;
   left: 50%;
   transform: translateX(-50%);
   top: 24%;
@@ -135,8 +135,8 @@ mat-form-field {
   position: fixed;
   top: 0px;
   left: 0px;
-  right: 0px;
-  bottom: 0px;
+  width: 100vw;
+  height: 100vh;
 
   background-color: white;
   z-index: 1000;
